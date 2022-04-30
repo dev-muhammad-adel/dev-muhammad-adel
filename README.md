@@ -143,7 +143,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamed%20adel-007bb5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dev-mohamed-adel/) [![GitHub](https://img.shields.io/badge/GitHub-mohamed%adel-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedAdelHussien) [![Whatsapp](https://img.shields.io/badge/Whatsapp-mohamed%20adel-25d366?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/201007133083)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamed%20adel-007bb5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dev-mohamed-adel/) [![Whatsapp](https://img.shields.io/badge/Whatsapp-mohamed%20adel-25d366?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/201007133083)
 </div>
 <br/>
 
