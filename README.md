@@ -148,18 +148,6 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 </div>
 <br/>
 
-## Popular Projects
-<a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=MDX-Food-Safety-Hackathon&theme=onedark" />
-</a>  
-
-
-<a href="https://github.com/aastha12/Loan_Prediction">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=Loan_Prediction&theme=onedark" />
-</a> 
-
 <h1>
   i really like music :headphones:
 </h1>
