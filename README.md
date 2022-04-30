@@ -100,7 +100,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
    &emsp;   &emsp;
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
-    &emsp;   &emsp;    &emsp; 
+    &emsp;   &emsp;
       <a href="#">   &emsp;  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
      &emsp;
         <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
