@@ -4,7 +4,7 @@
 
 # Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am Mohamed Adel! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 <p>
-  <a href="https://github.com/mohamedAdelHussien"><img src="https://readme-typing-svg.herokuapp.com?size=30&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Frontend+Developer;I'm+a+Computer+Science+engineer"/></a>
+  <a href="https://github.com/mohamedAdelHussien"><img src="https://readme-typing-svg.herokuapp.com?size=30&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+Developer;I'm+a+Computer+Science+engineer"/></a>
 </p>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=mohamedAdelHussien.mohamedAdelHussien)
