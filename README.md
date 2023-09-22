@@ -2,12 +2,12 @@
 
 
 
-# Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am Mohamed Adel! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+# Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am Mohamed Hussien! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 <p>
-  <a href="https://github.com/mohamedAdelHussien"><img src="https://readme-typing-svg.herokuapp.com?size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+Developer;I'm+a+Computer+Science+engineer"/></a>
+  <a href="https://github.com/dev-mohamed-hussien"><img src="https://readme-typing-svg.herokuapp.com?size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+Developer;I'm+a+Computer+Science+engineer"/></a>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=mohamedAdelHussien.mohamedAdelHussien)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=dev-mohamed-hussien.dev-mohamed-hussien)
 
 
 <div align="center">
@@ -20,7 +20,7 @@ Always trying to make my knowledge up to date to keep up with the new technologi
 
 <div >
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-<div size='20px'>  Thank You for taking the time to view my GitHub Profile   <a href="mailto:mohamed.adel2022@outlook.com"><b>Email</b></a> me
+<div size='20px'>  Thank You for taking the time to view my GitHub Profile   <a href="mailto:muhammed.hussien2030@gmail.com"><b>Email</b></a> me
 </div>
 <h2>  Here's some fun facts about me:  </h2>
 
@@ -117,9 +117,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <p align="center">
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mohamedAdelHussien&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedAdelHussien&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=mohamedAdelHussien&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=dev-mohamed-hussien&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mohamed-hussien&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=dev-mohamed-hussien&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
 
@@ -131,7 +131,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
 
-[<img src="https://activity-graph.herokuapp.com/graph?username=mohamedAdelHussien&theme=react-dark&hide_border=true&hide_title=true" width="100%" alt="activity graph">](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
+[<img src="https://activity-graph.herokuapp.com/graph?username=dev-mohamed-hussien&theme=react-dark&hide_border=true&hide_title=true" width="100%" alt="activity graph">](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
 
   <br/>
 
@@ -143,7 +143,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamed%20adel-007bb5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dev-mohamed-adel/) [![Whatsapp](https://img.shields.io/badge/Whatsapp-mohamed%20adel-25d366?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/201007133083)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamed%20hussien-007bb5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dev-mohamed-hussien/) [![Whatsapp](https://img.shields.io/badge/Whatsapp-mohamed%hussien-25d366?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/201099094324)
 </div>
 <br/>
 
