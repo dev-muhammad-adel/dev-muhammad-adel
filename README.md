@@ -7,7 +7,7 @@
   <a href="https://github.com/dev-mohamed-hussien"><img src="https://readme-typing-svg.herokuapp.com?size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+Developer;I'm+a+Computer+Science+engineer"/></a>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=dev-mohamed-hussien.dev-mohamed-hussien)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=dev-mohamed-hussien)
 
 
 <div align="center">
