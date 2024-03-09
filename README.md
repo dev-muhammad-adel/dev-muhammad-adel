@@ -2,7 +2,7 @@
 
 
 
-# Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am Mohamed Hussien! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+# Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am Muhammad Adel! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 <p>
   <a href="https://github.com/dev-mohamed-hussien"><img src="https://readme-typing-svg.herokuapp.com?size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+Developer;I'm+a+Computer+Science+engineer"/></a>
 </p>
