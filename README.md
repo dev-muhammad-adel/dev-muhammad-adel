@@ -6,7 +6,7 @@
 <p>
   <a href="https://github.com/dev-mohamed-hussien"><img src="https://readme-typing-svg.herokuapp.com?size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+Developer;"/></a>
 </p>
-# 💫 About Me:
+💫 About Me:
 🏦 I'm a Software Engineer working for Appssquare in Egypt , Tanta <br>💻 I use daily .js, .ts, .jsx|tsx, .html, .css<br>📝 I regulary write technical articles<br>🌱 I’m currently learning deeply Critical rendering path - Web performance,<br>👯 I’m looking to collaborate on Projects,Tech Articles<br>💬 Talk to me about html , css , js/typescript , react , nextjs , linux , docker , apache<br>👯 We can connect to play some games of Chess<br>
 
 
